@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes.
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)](https://github.com/vinzel-ops?tab=repositories)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)](https://github.com/vinzel-ops?tab=repositories)
 - Design & User Experience:
+[![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white)](https://github.com/vinzel-ops?tab=repositories)
 [![Adobe](https://img.shields.io/badge/Adobe-black.svg?style=flat&logo=adobe&logoColor=%23FF0000)](https://github.com/vinzel-ops?tab=repositories)
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-black.svg?style=flat&logo=adobeillustrator&logoColor=%23FF9A00)](https://github.com/vinzel-ops?tab=repositories)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-black?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)](https://github.com/vinzel-ops?tab=repositories)
