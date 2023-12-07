@@ -4,7 +4,7 @@
 <br />
 <br />
 
-## I'm an Information System graduate of [Poltek SSN](https://poltekssn.ac.id)!
+## I'm an Computer Science Graduate of [Poltek SSN](https://poltekssn.ac.id)!
 - 👀 I’m an enthusiast in Cybersecurity, UX design, Cloud Computing, and Web programming.
 - 🌱 I’m currently learning Go, React, Swift, and Google Cloud.
 - 💞️ I’m looking to collaborate on cybersecurity, web, mobile, and cloud projects!
