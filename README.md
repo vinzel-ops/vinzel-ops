@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 [![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white)](https://github.com/vinzel-ops?tab=repositories)
 [![Adobe](https://img.shields.io/badge/Adobe-black.svg?style=flat&logo=adobe&logoColor=%23FF0000)](https://github.com/vinzel-ops?tab=repositories)
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Photoshop-black.svg?style=flat&logo=adobephotoshop&logoColor=%23FF9A00)](https://github.com/vinzel-ops?tab=repositories)
-[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-black?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)](https://github.com/vinzel-ops?tab=repositories)
+[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-black?style=flat&logo=Adobe%20XD&logoColor=0078D6)](https://github.com/vinzel-ops?tab=repositories)
 - Other Languages:
 [![Go](https://img.shields.io/badge/Go-black?style=flat&logo=go&logoColor=0078D6)](https://github.com/vinzel-ops?tab=repositories&language=c%23)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)](https://github.com/KenTandrian?tab=repositories&language=jupyter-notebook)
