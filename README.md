@@ -18,7 +18,8 @@ You can click the Preview link to take a look at your changes.
 ## ⚡Technologies
 - Operating System: 
 [![Windows](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&logoColor=0078D6)]()
-[![MacOS](https://img.shields.io/badge/OS-MacOS-blue?&logo=apple&logoColor=0078D6)]()
+[![MacOS](https://img.shields.io/badge/MacOS-black?&logo=apple&logoColor=0078D6)]()
+[![Kali](https://img.shields.io/badge/Kali-black?&logo=kali&logoColor=0078D6)]()
 - Web Development:
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=%23E34F26)](https://github.com/vinzel-ops?tab=repositories&language=html)
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=%231572B6)](https://github.com/vinzel-ops?tab=repositories&language=css)
