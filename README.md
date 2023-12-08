@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 <br />
-[![May 2022](https://img.shields.io/github/last-commit/KenTandrian/KenTandrian?label=profile%20updated&style=flat-square)](https://github.com/vinzel-ops)
+[![December 2023](https://img.shields.io/github/last-commit/vinzel-ops/vinzel-ops?label=profile%20updated&style=flat-square)](https://github.com/vinzel-ops)
 
 ##
 &#169; Vinzel 2023.
